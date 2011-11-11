@@ -1,0 +1,103 @@
+<?xml version ="1.0" ?>
+<Document>
+<EventData INDEX="0">
+<Event_Type><![CDATA[MUSIC]]></Event_Type>
+<Artist><![CDATA[TAIO CRUZ]]></Artist>
+<Title><![CDATA[BREAK YOUR HEART (FEA. LUDACRIS)]]></Title>
+<Album><![CDATA[]]></Album>
+<Duration><![CDATA[00:03:09]]></Duration>
+<Art_Small><![CDATA[Unavailable]]></Art_Small>
+<Art_Medium><![CDATA[Unavailable]]></Art_Medium>
+<Art_Large><![CDATA[Unavailable]]></Art_Large>
+<RadioText><![CDATA[Now Playing BREAK YOUR HEART (FEA. LUDACRIS) by TAIO CRUZ]]></RadioText>
+<PurchaseURL><![CDATA[]]></PurchaseURL>
+<Timestamp><![CDATA[11112011-114311]]></Timestamp>
+</EventData>
+<EventData INDEX="1">
+<Event_Type><![CDATA[MUSIC]]></Event_Type>
+<Artist><![CDATA[NICKI MINAJ feat Drake]]></Artist>
+<Title><![CDATA[MOMENT 4 LIFE]]></Title>
+<Album><![CDATA[]]></Album>
+<Duration><![CDATA[00:04:37]]></Duration>
+<Art_Small><![CDATA[Unavailable]]></Art_Small>
+<Art_Medium><![CDATA[Unavailable]]></Art_Medium>
+<Art_Large><![CDATA[Unavailable]]></Art_Large>
+<RadioText><![CDATA[Now Playing MOMENT 4 LIFE by NICKI MINAJ feat Drake]]></RadioText>
+<PurchaseURL><![CDATA[]]></PurchaseURL>
+<Timestamp><![CDATA[11112011-113836]]></Timestamp>
+</EventData>
+<EventData INDEX="2">
+<Event_Type><![CDATA[GENERICMSG]]></Event_Type>
+<Message><![CDATA[You're Listening to College Sports Talk Live!]]></Message>
+<RadioText><![CDATA[You're Listening to College Sports Talk Live!]]></RadioText>
+<Duration><![CDATA[00:01:00]]></Duration>
+<Timestamp><![CDATA[11112011-113832]]></Timestamp>
+</EventData>
+<EventData INDEX="3">
+<Event_Type><![CDATA[MUSIC]]></Event_Type>
+<Artist><![CDATA[TIMBALAND]]></Artist>
+<Title><![CDATA[CARRYOUT (FEA. JUSTIN TIMBERLAKE)]]></Title>
+<Album><![CDATA[]]></Album>
+<Duration><![CDATA[00:03:52]]></Duration>
+<Art_Small><![CDATA[Unavailable]]></Art_Small>
+<Art_Medium><![CDATA[Unavailable]]></Art_Medium>
+<Art_Large><![CDATA[Unavailable]]></Art_Large>
+<RadioText><![CDATA[Now Playing CARRYOUT (FEA. JUSTIN TIMBERLAKE) by TIMBALAND]]></RadioText>
+<PurchaseURL><![CDATA[]]></PurchaseURL>
+<Timestamp><![CDATA[11112011-113440]]></Timestamp>
+</EventData>
+<EventData INDEX="4">
+<Event_Type><![CDATA[GENERICMSG]]></Event_Type>
+<Message><![CDATA[You're Listening to College Sports Talk Live!]]></Message>
+<RadioText><![CDATA[You're Listening to College Sports Talk Live!]]></RadioText>
+<Duration><![CDATA[00:01:00]]></Duration>
+<Timestamp><![CDATA[11112011-113429]]></Timestamp>
+</EventData>
+<EventData INDEX="5">
+<Event_Type><![CDATA[MUSIC]]></Event_Type>
+<Artist><![CDATA[SUGARLAND]]></Artist>
+<Title><![CDATA[LITTLE MISS]]></Title>
+<Album><![CDATA[]]></Album>
+<Duration><![CDATA[00:04:27]]></Duration>
+<Art_Small><![CDATA[Unavailable]]></Art_Small>
+<Art_Medium><![CDATA[Unavailable]]></Art_Medium>
+<Art_Large><![CDATA[Unavailable]]></Art_Large>
+<RadioText><![CDATA[Now Playing LITTLE MISS by SUGARLAND]]></RadioText>
+<PurchaseURL><![CDATA[]]></PurchaseURL>
+<Timestamp><![CDATA[11112011-113001]]></Timestamp>
+</EventData>
+<EventData INDEX="6">
+<Event_Type><![CDATA[MUSIC]]></Event_Type>
+<Artist><![CDATA[RIHANNA FT. CALVIN HARRIS]]></Artist>
+<Title><![CDATA[WE FOUND LOVE]]></Title>
+<Album><![CDATA[]]></Album>
+<Duration><![CDATA[00:03:32]]></Duration>
+<Art_Small><![CDATA[Unavailable]]></Art_Small>
+<Art_Medium><![CDATA[Unavailable]]></Art_Medium>
+<Art_Large><![CDATA[Unavailable]]></Art_Large>
+<RadioText><![CDATA[Now Playing WE FOUND LOVE by RIHANNA FT. CALVIN HARRIS]]></RadioText>
+<PurchaseURL><![CDATA[]]></PurchaseURL>
+<Timestamp><![CDATA[11112011-112628]]></Timestamp>
+</EventData>
+<EventData INDEX="7">
+<Event_Type><![CDATA[GENERICMSG]]></Event_Type>
+<Message><![CDATA[You're Listening to College Sports Talk Live!]]></Message>
+<RadioText><![CDATA[You're Listening to College Sports Talk Live!]]></RadioText>
+<Duration><![CDATA[00:01:00]]></Duration>
+<Timestamp><![CDATA[11112011-112627]]></Timestamp>
+</EventData>
+<EventData INDEX="8">
+<Event_Type><![CDATA[GENERICMSG]]></Event_Type>
+<Message><![CDATA[You're Listening to Today's Best Hits!]]></Message>
+<RadioText><![CDATA[You're Listening to Today's Best Hits!]]></RadioText>
+<Duration><![CDATA[00:00:15]]></Duration>
+<Timestamp><![CDATA[11112011-112611]]></Timestamp>
+</EventData>
+<EventData INDEX="9">
+<Event_Type><![CDATA[GENERICMSG]]></Event_Type>
+<Message><![CDATA[You're Listening to College Sports Talk Live!]]></Message>
+<RadioText><![CDATA[You're Listening to College Sports Talk Live!]]></RadioText>
+<Duration><![CDATA[00:01:00]]></Duration>
+<Timestamp><![CDATA[11112011-112558]]></Timestamp>
+</EventData>
+</Document>
